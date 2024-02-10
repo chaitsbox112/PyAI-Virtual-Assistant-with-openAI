@@ -1,0 +1,1 @@
+Mykey = 'Set your own open AI API key'
